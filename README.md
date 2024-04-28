@@ -1,3 +1,4 @@
+![logo](https://github.com/Dishant-Chouhan/Dishant-Chouhan/blob/main/DISHANT%20CHOUHAN.png)
 <h1 align="center">Hi 👋, I'm Dishant Chouhan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
