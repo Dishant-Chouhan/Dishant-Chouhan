@@ -1,25 +1,115 @@
-![logo](https://github.com/Dishant-Chouhan/Dishant-Chouhan/blob/main/DISHANT%20CHOUHAN.png)
-<h1 align="center">Hi 👋, I'm Dishant Chouhan</h1>
-<h3 align="center">A passionate Data Smiths from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishant-chouhan&label=Profile%20views&color=0e75b6&style=flat" alt="dishant-chouhan" /> </p>
-
-- 🌱 I’m currently learning **Data engineering**
-
-- 📫 How to reach me **chouhandishant921@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dishant chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishant chouhan" height="30" width="40" /></a>
-<a href="https://instagram.com/dishant_chouhan_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishant_chouhan_1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dishant chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dishant chouhan" height="30" width="40" /></a>
+<!-- Header Logo -->
+<p align="center">
+  <img src="https://github.com/Dishant-Chouhan/Dishant-Chouhan/blob/main/DISHANT%20CHOUHAN.png" alt="Dishant Chouhan Logo" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Dishant Chouhan</h1>
+<h3 align="center">🚀 Fresher | B.Tech in Data Science | AI/ML & Data Engineering Enthusiast</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishant-chouhan&show_icons=true&locale=en&layout=compact" alt="dishant-chouhan" /></p>
+<p align="center">
+  <a href="https://github.com/Dishant-Chouhan">
+    <img src="https://komarev.com/ghpvc/?username=dishant-chouhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishant-chouhan&show_icons=true&locale=en" alt="dishant-chouhan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishant-chouhan&" alt="dishant-chouhan" /></p>
+## 🧑‍🎓 About Me
+
+- 🎓 **Final Year B.Tech (Data Science)** from Medi-Caps University  
+- 💡 Passionate about solving real-world problems using **Machine Learning**, **Deep Learning**, and **Data Engineering**
+- 🛠 Currently working with **Kafka**, **Spark**, **Airflow**, and deploying ML models using **Flask & Docker**
+- 🏆 **Amazon ML Challenge 2024 – Ranked 357/75,000+**
+- 🌱 Exploring **Generative AI**, **LangChain**, and **Semantic Search**
+- 📫 Reach me at: **chouhandishant921@gmail.com**
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/dishant-chouhan">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/dishant_chouhan1?igsh=cDA0cXUwOXc4N2cx">
+    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&style=for-the-badge" alt="Instagram"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/chouhandishant91">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=for-the-badge" alt="HackerRank"/>
+  </a>
+  <a href="https://dishant-chouhan.github.io/portfolio1.1/">
+    <img src="https://img.shields.io/badge/Portfolio-000?logo=github&style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+`Python` | `SQL` | `C++`
+
+### 📊 Machine Learning & Deep Learning
+`Scikit-learn` | `Pandas` | `NumPy` | `TensorFlow` | `Keras` | `PyTorch` | `NLP` | `Computer Vision` | `ML Algorithms` | `OpenCV` | `Matplotlib` | `Seaborn`
+
+### ⚙️ Data Engineering & Deployment
+`Apache Kafka` | `Apache Spark` | `Apache Airflow` | `Docker` | `Flask` | `FastAPI` | `Git` | `Linux` | `REST APIs`
+
+### 🗃️ Databases & BI Tools
+`MySQL` | `PostgreSQL` | `MongoDB` | `Cassandra` | `NoSQL` | `SQLite` | `Tableau` | `Power BI` | `Excel`
+
+### 🤖 Generative AI & NLP Tools
+`LangChain` | `Transformers (Hugging Face)` | `FAISS` |`Sentence Transformers`
+
+### ☁️ Platforms & Tools
+`Jupyter Notebook` | `Google Colab` | `VS Code` | `GitHub Actions` | `Streamlit`
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [ASKmYDocs – PDF Question Answering Bot](https://github.com/Dishant-Chouhan/ASKmYDocs--Your-Personal-PDF-Assistant)  
+LLM-powered chatbot using **LangChain**, **FAISS**, and **Mistral-7B** for querying PDFs with semantic search and chat memory.
+
+### 🏥 [Musculoskeletal Abnormality Detection](https://github.com/Dishant-Chouhan/Musculoskeletal-Abnormalities-Detection-by-DL)  
+Deep Learning model using CNNs to detect abnormalities in X-rays, deployed with **Flask** for clinical use-case simulation.
+
+### 🌾 [Crop Yield Prediction & Recommendation](https://github.com/Dishant-Chouhan/CROP-YILED-PREDICTION-AND-RECOMMENDATION-SYSTEM)  
+Built ML pipelines (Random Forest, Gradient Boosting) with 88% accuracy; handled imbalanced data using **SMOTE**.
+
+### 🦠 [COVID-19 Data Analysis Dashboard](https://github.com/Dishant-Chouhan/COVID-19-Data-Analysis-Across-Multiple-Platforms)  
+End-to-end analysis with **MySQL + Tableau**, visualizing global pandemic and vaccination metrics.
+
+### ⚙️ [Real-Time Data Streaming Pipeline](https://github.com/Dishant-Chouhan/Realtime-Data-Streaming-End-to-End-Data-Engineering-Project)  
+Built streaming system using **Kafka, Spark, Airflow & Cassandra** to process real-time sensor logs.
+
+### 🏏 [Player Re-Identification in Sports Footage](https://github.com/Dishant-Chouhan/Player-Re-Identification-in-Sports-Footage)  
+Used Deep Learning + Computer Vision to re-identify and track players across video frames in sports analytics applications.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dishant-Chouhan&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dishant-Chouhan" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dishant-Chouhan&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm looking for **internships, research projects, or entry-level opportunities** in:
+
+- ✅ Machine Learning & Deep Learning  
+- ✅ Data Engineering (Big Data / Pipelines / Streaming)  
+- ✅ Generative AI & LLM-based Applications
+
+Feel free to connect via [LinkedIn](https://linkedin.com/in/dishant-chouhan) or email me at **chouhandishant921@gmail.com**.  
+Let’s build something impactful together! 🚀
+
+---
+
+
