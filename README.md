@@ -1,6 +1,6 @@
 <!-- Header Logo -->
 <p align="center">
-  <img src="https://github.com/Dishant-Chouhan/Dishant-Chouhan/blob/main/DISHANT%20CHOUHAN.png" alt="Dishant Chouhan Logo" />
+  <img src="https://github.com/Dishant-Chouhan/Dishant-Chouhan/blob/main/new.png" alt="Dishant Chouhan Logo" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dishant Chouhan</h1>
