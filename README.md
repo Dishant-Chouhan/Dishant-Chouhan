@@ -72,11 +72,15 @@
 ### 🧠 [ASKmYDocs – PDF Question Answering Bot](https://github.com/Dishant-Chouhan/ASKmYDocs--Your-Personal-PDF-Assistant)  
 LLM-powered chatbot using **LangChain**, **FAISS**, and **Mistral-7B** for querying PDFs with semantic search and chat memory.
 
-### 🏥 [Musculoskeletal Abnormality Detection](https://github.com/Dishant-Chouhan/Musculoskeletal-Abnormalities-Detection-by-DL)  
-Deep Learning model using CNNs to detect abnormalities in X-rays, deployed with **Flask** for clinical use-case simulation.
+### 🏥 [Diabetic Retinopathy Detection with Grad-CAM++](https://github.com/Dishant-Chouhan/Diabetic-Retinopathy-Detection-with-Gradcampp)  
+Explainable deep learning web app using **EfficientNet-B5** for diabetic retinopathy classification, combined with **Grad-CAM++** for visual interpretability. Built with **Flask**, **Bootstrap**, and **t-SNE** visualization for transparent AI in healthcare.
+
+### 🦴 [Musculoskeletal Abnormalities Detection](https://github.com/Dishant-Chouhan/Musculoskeletal-Abnormalities-Detection-by-DL)  
+Web app built with **Flask** and **TensorFlow/Keras** to detect abnormalities in X-rays of wrist, finger, humerus, forearm, and hand. Uses **InceptionResNetV2** fine-tuned on the **MURA dataset**, with a modern interface, confidence scoring, and pre-trained models hosted on Hugging Face.
+
 
 ### 🌾 [Crop Yield Prediction & Recommendation](https://github.com/Dishant-Chouhan/CROP-YILED-PREDICTION-AND-RECOMMENDATION-SYSTEM)  
-Built ML pipelines (Random Forest, Gradient Boosting) with 88% accuracy; handled imbalanced data using **SMOTE**.
+Built ML pipelines (**Random Forest**, **Gradient Boosting**) with 88% accuracy; handled imbalanced data using **SMOTE**.
 
 ### 🦠 [COVID-19 Data Analysis Dashboard](https://github.com/Dishant-Chouhan/COVID-19-Data-Analysis-Across-Multiple-Platforms)  
 End-to-end analysis with **MySQL + Tableau**, visualizing global pandemic and vaccination metrics.
