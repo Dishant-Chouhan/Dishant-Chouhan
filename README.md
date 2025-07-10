@@ -5,7 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Dishant Chouhan</h1>
 <h3 align="center">🚀 Fresher | B.Tech in Data Science | AI/ML & Data Engineering Enthusiast</h3>
-<h3 align="center">💡 Turning Data into Impact | Passionate about GenAI, Real-Time ML, and Scalable Data Pipelines</h3>
 
 
 <p align="center">
@@ -18,7 +17,7 @@
 
 ## 🧑‍🎓 About Me
 
-- 🎓 **Final Year B.Tech (Data Science)** from Medi-Caps University  
+- 🎓 **B.Tech in Data Science Graduate** from Medi-Caps University – Passed with First Division  
 - 💡 Passionate about solving real-world problems using **Machine Learning**, **Deep Learning**, and **Data Engineering**
 - 🛠 Currently working with **Kafka**, **Spark**, **Airflow**, and deploying ML models using **Flask & Docker**
 - 🏆 **Amazon ML Challenge 2024 – Ranked 357/75,000+**
