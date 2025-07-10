@@ -5,6 +5,8 @@
 
 <h1 align="center">Hi 👋, I'm Dishant Chouhan</h1>
 <h3 align="center">🚀 Fresher | B.Tech in Data Science | AI/ML & Data Engineering Enthusiast</h3>
+<h3 align="center">💡 Turning Data into Impact | Passionate about GenAI, Real-Time ML, and Scalable Data Pipelines</h3>
+
 
 <p align="center">
   <a href="https://github.com/Dishant-Chouhan">
