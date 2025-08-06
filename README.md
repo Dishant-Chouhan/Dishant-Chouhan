@@ -51,7 +51,7 @@
 `Python` | `SQL` | `C++`
 
 ### 📊 Machine Learning & Deep Learning
-`Scikit-learn` | `Pandas` | `NumPy` | `TensorFlow` | `Keras` | `PyTorch` | `NLP` | `Computer Vision` | `ML Algorithms` | `OpenCV` | `Matplotlib` | `Seaborn`
+`Scikit-learn` | `Pandas` | `NumPy` | `TensorFlow` | `Keras` | `PyTorch` | `NLP` | `CNN` |`RNN` | `Computer Vision` | `ML Algorithms` | `OpenCV` | `Matplotlib` | `Seaborn`
 
 ### ⚙️ Data Engineering & Deployment
 `Apache Kafka` | `Apache Spark` | `Apache Airflow` | `Docker` | `Flask` | `FastAPI` | `Git` | `Linux` | `REST APIs`
