@@ -60,7 +60,7 @@
 `MySQL` | `PostgreSQL` | `MongoDB` | `Cassandra` | `NoSQL` | `SQLite` | `Tableau` | `Power BI` | `Excel`
 
 ### 🤖 Generative AI & NLP Tools
-`LangChain` | `Transformers (Hugging Face)` | `FAISS` |`Sentence Transformers`
+`LangChain` | `Transformers (Hugging Face)` | `FAISS` |`Sentence Transformers` |`RAG` 
 
 ### ☁️ Platforms & Tools
 `Jupyter Notebook` | `Google Colab` | `VS Code` | `GitHub Actions` | `Streamlit`
