@@ -26,6 +26,20 @@
 
 ---
 
+## 💼 Experience
+
+### 🧠 LLM Post-Training Intern | Ethara AI *(Hybrid)*  
+**Nov 2025 – Feb 2026**
+
+- 🔹 Performed **Supervised Fine-Tuning (SFT)** on Large Language Models using the *Multimango* platform  
+- 🔹 Created high-quality instruction-following datasets for LLM training  
+- 🔹 Evaluated and ranked AI-generated responses across **STEM & non-STEM domains**  
+- 🔹 Identified hallucinations and logical inconsistencies in model outputs  
+- 🔹 Applied structured evaluation metrics (**accuracy, clarity, instruction adherence, completeness**)  
+- 🔹 Gained hands-on experience with **RLHF, RLVR, and preference ranking techniques**
+
+---
+
 ## 🔗 Connect with Me
 
 <p align="left">
